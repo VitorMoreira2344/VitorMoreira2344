@@ -45,7 +45,3 @@
 ### 🦅 ZulCode
 > A gamified programming learning platform, inspired by Duolingo. Developed as a Capstone Project (TCC), it aims to make coding education accessible and engaging through interactive lessons.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thales-gsd&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-gsd&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
