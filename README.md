@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Front-end Developer | Building Digital Products</b><br/>
-  Creator of <a href="https://github.com/VitorMoreira2344">xxxxxxxxx</a> · Co-Creator of <a href="#">ZulCode</a>
+  · Co-Creator of <a href="#">ZulCode</a>
 </p>
 
 <p align="center">
