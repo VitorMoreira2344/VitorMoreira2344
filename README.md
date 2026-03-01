@@ -1,13 +1,13 @@
-<h1 align="center">Olá, eu sou o Thales 👋</h1>
+<h1 align="center">Olá, eu sou o Vitor 👋</h1>
 
 <p align="center">
   <b>Front-end Developer | Building Digital Products</b><br/>
-  Creator of <a href="https://github.com/thales-gsd">GrowpStudios</a> · Co-Creator of <a href="#">ZulCode</a>
+  Creator of <a href="https://github.com/VitorMoreira2344">xxxxxxxxx</a> · Co-Creator of <a href="#">ZulCode</a>
 </p>
 
 <p align="center">
-  <a href="mailto:thalesdipa123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-thalesdipa123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="vitor.r.moreira23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vitor.r.moreira23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -43,22 +43,6 @@
 
 ### 🦅 ZulCode
 > A gamified programming learning platform, inspired by Duolingo. Developed as a Capstone Project (TCC), it aims to make coding education accessible and engaging through interactive lessons.
-
----
-
-### 🏗 GrowpStudios
-> A digital ecosystem and productivity hub designed to integrate modular extensions for daily life.
-
-**Current Modules:**
-
-| Module | Description |
-|--------|-------------|
-| 📝 **GrowpNotes** | Smart note-taking |
-| 💰 **GrowpFinance** | Personal financial management |
-| 💪 **GrowpWorkout** | Fitness tracking |
-| 📖 **GrowpBible** | Biblical studies and reflection |
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thales-gsd&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
