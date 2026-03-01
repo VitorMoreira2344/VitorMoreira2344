@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="vitor.r.moreira23@gmail.com">
+  <a href="mailto:vitor.r.moreira23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vitor.r.moreira23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
