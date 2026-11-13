@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Front-end Developer | Building Digital Products</b><br/>
-  · Co-Creator of <a href="zulcode.vercel.app">ZulCode</a>
+  · Co-Creator of <a href="https://github.com/ZulCode-Organization">ZulCode</a>
 </p>
 
 <p align="center">
@@ -42,6 +42,6 @@
 
 ## 🚀 Featured Projects
 
-### 🦅 <a href="[zulcode.vercel.app](https://github.com/ZulCode-Organization)">ZulCode</a>
+### 🦅 <a href="https://github.com/ZulCode-Organization">ZulCode</a>
 > A gamified programming learning platform, inspired by Duolingo. Developed as a Capstone Project (TCC), it aims to make coding education accessible and engaging through interactive lessons.
 
