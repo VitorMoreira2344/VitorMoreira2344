@@ -42,6 +42,6 @@
 
 ## 🚀 Featured Projects
 
-### 🦅 <a href="zulcode.vercel.app">ZulCode</a>
+### 🦅 <a href="[zulcode.vercel.app](https://github.com/ZulCode-Organization)">ZulCode</a>
 > A gamified programming learning platform, inspired by Duolingo. Developed as a Capstone Project (TCC), it aims to make coding education accessible and engaging through interactive lessons.
 
